@@ -3,6 +3,5 @@ public class Objective1Lab2{
 
     System.out.println("Andrew Conlin");
     System.out.println("27");
-    
   }
 }
