@@ -3,5 +3,6 @@ public class Objective2Lab1{
     String hello = "Hello World";
 
     System.out.println(hello);
+    
   }
 }
