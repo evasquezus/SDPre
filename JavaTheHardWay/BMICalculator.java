@@ -15,6 +15,5 @@ public class BMICalculator {
         bmi = kg / (m*m);
 
         System.out.println("Your BMI is " + bmi );
-
     }
 }
