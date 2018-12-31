@@ -30,6 +30,5 @@ public class AgeMessages {
       System.out.println( "\t\t(How sad!)" );
 
     }
-
   }
 }
