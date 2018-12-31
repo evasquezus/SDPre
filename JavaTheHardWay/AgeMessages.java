@@ -28,7 +28,6 @@ public class AgeMessages {
     if (age < 35 ){
       System.out.println( " \ttoo young to run for President of the U.S. ");
       System.out.println( "\t\t(How sad!)" );
-
     }
   }
 }
